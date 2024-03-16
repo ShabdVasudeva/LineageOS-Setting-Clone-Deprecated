@@ -11,7 +11,7 @@ Welcome to the Lineage OS 21 Settings App repository! This app allows users to c
 
 ## Installation
 
-Simply install the apk file from [here]() and enjoy the feel of LineageOS 21 Ui.
+Simply install the apk file from [here](https://github.com/ShabdVasudeva/LineageOS-Setting-Clone/releases/tag/LineageOS21Settings) and enjoy the feel of LineageOS 21 Ui.
 
 ## Usage
 
