@@ -1,6 +1,8 @@
 # LineageOS-Setting-Clone
 Welcome to the Lineage OS 21 Settings App repository! This app allows users to customize and configure various settings to tailor their experience of LineageOS.
 
+## this application is deprecated now check out our new LineageOS Settings Clone repository.
+
 ## Features
 
 - Customize app appearance
